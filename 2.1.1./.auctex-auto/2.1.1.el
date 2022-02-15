@@ -18,6 +18,10 @@
     "babel")
    (LaTeX-add-labels
     "eq1"
-    "eq2"))
+    "eq2"
+    "eq3"
+    "eq4"
+    "eq5"
+    "eq6"))
  :latex)
 
