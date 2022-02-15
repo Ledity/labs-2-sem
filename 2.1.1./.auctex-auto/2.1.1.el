@@ -17,6 +17,7 @@
     "inputenc"
     "babel")
    (LaTeX-add-labels
-    "eq1"))
+    "eq1"
+    "eq2"))
  :latex)
 

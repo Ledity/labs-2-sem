@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.2.6)  15 FEB 2022 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.2.6)  15 FEB 2022 22:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./2.1.1.tex
+**2.1.1.tex
 (./2.1.1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22>
@@ -465,29 +465,56 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./2.1.1.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 26.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 26.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 26.
+
+Missing character: There is no ï in font cmr8!
+Missing character: There is no î in font cmr8!
+Missing character: There is no ò in font cmr8!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 28.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 28.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 28.
+
+Missing character: There is no ï in font cmr8!
+Missing character: There is no î in font cmr8!
+Missing character: There is no ò in font cmr8!
+[2] (./2.1.1.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4910 strings out of 478353
- 73587 string characters out of 5854636
- 376965 words of memory out of 5000000
- 22965 multiletter control sequences out of 15000+600000
+ 4911 strings out of 478353
+ 73590 string characters out of 5854636
+ 378973 words of memory out of 5000000
+ 22966 multiletter control sequences out of 15000+600000
  414431 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,67p,514b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,67p,512b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
-/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1
-095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on 2.1.1.pdf (2 pages, 76212 bytes).
+ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/
+share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/cm-super/sfrm1728.pfb>
+Output written on 2.1.1.pdf (2 pages, 94412 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
