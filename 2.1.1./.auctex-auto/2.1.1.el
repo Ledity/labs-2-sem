@@ -4,7 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "a4paper" "11pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("fontenc" "T1" "T2A") ("inputenc" "utf8") ("babel" "english" "russian")))
+                     '(("mathtext" "warn") ("fontenc" "T1" "T2A") ("inputenc" "utf8") ("babel" "english" "russian")))
    (TeX-run-style-hooks
     "latex2e"
     "article"
@@ -13,6 +13,7 @@
     "amsthm"
     "amssymb"
     "graphicx"
+    "mathtext"
     "fontenc"
     "inputenc"
     "babel")
@@ -22,6 +23,7 @@
     "eq3"
     "eq4"
     "eq5"
-    "eq6"))
+    "eq6"
+    "eq7"))
  :latex)
 

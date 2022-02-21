@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.2.6)  15 FEB 2022 23:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.2.6)  21 FEB 2022 00:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -127,6 +127,10 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
+)
+(/usr/share/texmf-dist/tex/latex/t2/mathtext.sty
+Package: mathtext 2018/04/14 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 121.
 )
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -334,7 +338,9 @@ File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-))
+)
+\symT2Aletters=\mathgroup6
+)
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
 
@@ -378,22 +384,22 @@ File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 ) (./2.1.1.aux)
 \openout1 = `2.1.1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -451,86 +457,325 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \th on input line 12.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
+LaTeX Info: Redefining \th on input line 13.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+
+LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 14.
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \newline
-             
-? q
-OK, entering \batchmode...
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 36.
+ []
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 36.
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 36.
+Package mathtext Warning: letter `cyrp' used in math mode on input line 27.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 36.
+Package mathtext Warning: letter `cyro' used in math mode on input line 27.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 36.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 27.
 
-Missing character: There is no г in font cmr8!
-Missing character: There is no м in font cmr8!
-Missing character: There is no о in font cmr8!
-Missing character: There is no л in font cmr8!
-Missing character: There is no ь in font cmr8!
- [2]
-Overfull \hbox (0.6742pt too wide) in paragraph at lines 52--52
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 29.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 29.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 29.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+
+ []
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 34.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 34.
+
+
+Package mathtext Warning: letter `CYRV' used in math mode on input line 34.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 39.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 39.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 39.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 39.
+
+
+Package mathtext Warning: letter `cyrsftsn' used in math mode on input line 39.
+
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 39.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 39.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 40.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 40.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 40.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
+[2]
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 42.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 42.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 42.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 47.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 47.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 47.
+
+
+Overfull \hbox (0.6742pt too wide) in paragraph at lines 53--53
 []\T2A/cmr/bx/n/14.4 Оборудование и экс-пе-ри-мен-таль-ные по-греш-но-
  []
 
 
-Overfull \hbox (42.40846pt too wide) in paragraph at lines 53--57
-\T2A/cmr/m/n/10.95 В ра-бо-те ис-поль-зу-ют-ся: теп-ло-изо-ли-ро-ван-ная стек-л
-ян-ная труб-ка; электронагрева-
+Package mathtext Warning: letter `CYRK' used in math mode on input line 59.
+
+
+Package mathtext Warning: letter `CYRK' used in math mode on input line 63.
+
+
+Package mathtext Warning: letter `CYRK' used in math mode on input line 63.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `CYRP' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `CYRP' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 66.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 68.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 68.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 68.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 68.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 68.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 69.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 69.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 69.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 69.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 69.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 69.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 70.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 70.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 70.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 70.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
  []
 
- [3] (./2.1.1.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--71
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+[4] (./2.1.1.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4917 strings out of 478353
- 73636 string characters out of 5854636
- 384013 words of memory out of 5000000
- 22971 multiletter control sequences out of 15000+600000
- 415257 words of font info for 58 fonts, out of 8000000 for 9000
+ 5290 strings out of 478353
+ 79524 string characters out of 5854636
+ 384654 words of memory out of 5000000
+ 23337 multiletter control sequences out of 15000+600000
+ 417682 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,67p,896b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2
-a.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></us
-r/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-d
-ist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1
-/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1728.pfb>
-Output written on 2.1.1.pdf (3 pages, 131587 bytes).
+ 60i,6n,67p,904b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></us
+r/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-d
+ist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1
+/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+</usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on 2.1.1.pdf (4 pages, 214186 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
