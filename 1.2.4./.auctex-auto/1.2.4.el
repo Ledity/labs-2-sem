@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "1.2.5"
+ "1.2.4"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "a4paper" "11pt")))
@@ -22,15 +22,6 @@
     "eq1"
     "eq2"
     "eq3"
-    "eq4"
-    "eq5"
-    "eq6"
-    "table:tab1"
-    "table:tab2"
-    "table:tab3"
-    "table:tab4"
-    "table:tab5"
-    "table:tab6"
-    "table:tab7"))
+    "eq4"))
  :latex)
 
