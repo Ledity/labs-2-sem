@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.2.6)  19 MAR 2022 10:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.2.6)  21 MAR 2022 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,6 +1107,9 @@ Package mathtext Warning: letter `CYRA' used in math mode on input line 113.
 Package mathtext Warning: letter `CYRV' used in math mode on input line 113.
 
 
+Package mathtext Warning: letter `cyrm' used in math mode on input line 113.
+
+
 Package mathtext Warning: letter `CYRV' used in math mode on input line 113.
 
 
@@ -1184,6 +1187,9 @@ Package mathtext Warning: letter `CYRA' used in math mode on input line 171.
 Package mathtext Warning: letter `CYRV' used in math mode on input line 171.
 
 
+Package mathtext Warning: letter `cyrm' used in math mode on input line 171.
+
+
 Package mathtext Warning: letter `CYRV' used in math mode on input line 171.
 
 
@@ -1259,6 +1265,9 @@ Package mathtext Warning: letter `CYRA' used in math mode on input line 229.
 Package mathtext Warning: letter `CYRV' used in math mode on input line 229.
 
 
+Package mathtext Warning: letter `cyrm' used in math mode on input line 229.
+
+
 Package mathtext Warning: letter `CYRV' used in math mode on input line 229.
 
 
@@ -1292,6 +1301,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--253
 Package mathtext Warning: letter `CYRK' used in math mode on input line 257.
 
 
+Package mathtext Warning: letter `cyrm' used in math mode on input line 257.
+
+
 Package mathtext Warning: letter `CYRV' used in math mode on input line 257.
 
 
@@ -1312,6 +1324,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--259
 Package mathtext Warning: letter `CYRK' used in math mode on input line 290.
 
 
+Package mathtext Warning: letter `cyrm' used in math mode on input line 290.
+
+
 Package mathtext Warning: letter `CYRV' used in math mode on input line 290.
 
 
@@ -1325,6 +1340,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--292
 [8]
 
 Package mathtext Warning: letter `CYRK' used in math mode on input line 325.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 325.
 
 
 Package mathtext Warning: letter `CYRV' used in math mode on input line 325.
@@ -1347,10 +1365,16 @@ Package mathtext Warning: letter `cyrs' used in math mode on input line 367.
 Package mathtext Warning: letter `CYRK' used in math mode on input line 367.
 
 
+Package mathtext Warning: letter `cyrm' used in math mode on input line 367.
+
+
 Package mathtext Warning: letter `CYRV' used in math mode on input line 367.
 
 
 Package mathtext Warning: letter `cyrt' used in math mode on input line 367.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 367.
 
 
 Package mathtext Warning: letter `CYRV' used in math mode on input line 367.
@@ -1360,6 +1384,11 @@ Package mathtext Warning: letter `cyrt' used in math mode on input line 367.
 
 
 Package mathtext Warning: letter `CYRK' used in math mode on input line 367.
+
+
+Overfull \hbox (4.8225pt too wide) in paragraph at lines 365--374
+ [][] 
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 361--381
@@ -1373,6 +1402,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 361--381
 
 [9]
 
+Package mathtext Warning: letter `cyrk' used in math mode on input line 405.
+
+
 Package mathtext Warning: letter `CYRD' used in math mode on input line 405.
 
 
@@ -1383,6 +1415,9 @@ Package mathtext Warning: letter `cyrg' used in math mode on input line 405.
 
 
 Package mathtext Warning: letter `CYRK' used in math mode on input line 405.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 406.
 
 
 Package mathtext Warning: letter `CYRV' used in math mode on input line 406.
@@ -1401,6 +1436,9 @@ Package mathtext Warning: letter `cyro' used in math mode on input line 407.
 
 
 Package mathtext Warning: letter `cyrt' used in math mode on input line 407.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 413.
 
 
 Package mathtext Warning: letter `CYRV' used in math mode on input line 413.
@@ -1438,11 +1476,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  25584 strings out of 478353
  642604 string characters out of 5854636
- 1086500 words of memory out of 5000000
+ 1085497 words of memory out of 5000000
  43314 multiletter control sequences out of 15000+600000
  418023 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,103p,897b,1919s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,12n,103p,1055b,1919s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -1459,7 +1497,7 @@ er/sfrm0600.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb
 ></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/te
 xmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/
 type1/public/cm-super/sfrm1728.pfb>
-Output written on 2.1.1.pdf (11 pages, 263922 bytes).
+Output written on 2.1.1.pdf (11 pages, 265318 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
