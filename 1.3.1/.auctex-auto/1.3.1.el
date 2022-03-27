@@ -21,6 +21,12 @@
     "inputenc"
     "babel")
    (LaTeX-add-labels
-    "eq1"))
+    "eq1"
+    "fig:img1"
+    "eq2"
+    "eq3"
+    "table:tab1"
+    "table:tab2"
+    "table:tab4"))
  :latex)
 
