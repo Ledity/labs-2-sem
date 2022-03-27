@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "1.4.1"
+ "1.3.1"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "a4paper" "11pt")))
@@ -19,17 +19,6 @@
     "cmap"
     "fontenc"
     "inputenc"
-    "babel")
-   (LaTeX-add-labels
-    "fig:img1"
-    "eq1"
-    "eq2"
-    "eq3"
-    "eq4"
-    "eq5"
-    "eq6"
-    "eq7"
-    "table:tab1"
-    "table:tab2"))
+    "babel"))
  :latex)
 
