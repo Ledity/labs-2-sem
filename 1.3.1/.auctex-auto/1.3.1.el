@@ -27,6 +27,7 @@
     "eq3"
     "table:tab1"
     "table:tab2"
+    "table:tab3"
     "table:tab4"))
  :latex)
 
