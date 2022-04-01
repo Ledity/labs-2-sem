@@ -1,0 +1,58 @@
+% Document settings
+\documentclass[a4paper,11pt]{article}
+
+% Packages
+  % math formulas
+\usepackage{amsmath,amsthm,amssymb}
+  % graphics
+\usepackage{graphicx}
+\usepackage{wrapfig}
+  % plots
+\usepackage{pgfplots}
+  % other
+\usepackage[warn]{mathtext}
+\usepackage{cmap}
+\usepackage[T1,T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+
+% Package settings
+%% graphicx
+\graphicspath{{Pictures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+%% pgfplots
+\pgfplotsset{width=10cm,compat=1.9}
+
+% Title
+\title{Отчет о выполнении работы №1.2.4.}
+\author{Воейко Андрей Александрович, Б01-109}
+\date{Долгопрудный, 2021}
+
+% Document
+\begin{document}
+\maketitle
+\newpage
+\section{Аннотация}
+В работе измеряется давление насыщенного пара жидкости при разной температуре. На основании этих данных при помощи уравнения Клапейрона-Клаузиуса вычисляется теплота пароообразования.
+\section{Теоретические сведения}
+Вычислить теплоту преобразования жидкости напрямую мы не будем, ведь сделать тепловые потери пренебрежимо малыми в условиях институтской лаборатории довольно сложно. Для вычисления теплоты парообразования $L$ воспользуемся уравнением Клапейрона-Клаузиуса, представленного в формуле~\ref{eq1}.
+\begin{equation}    \label{eq1}
+  \frac{dP}{dT}=\frac{L}{T(V_{2}-V_{1})},
+\end{equation}
+где $T$ -- температура пара, $P$ -- давление насыщенного пара, $L$ -- теплота парообразования жидкости, $V_{2}$ -- объем пара, $V_{1}$ -- объем жидкости. В нашем случае $V_{1}$ составляет $18 \cdot 10^{-6}\ \frac{м^{3}}{моль}$, а $V_{2}$ -- $31 \ cdot 10^{-3}\ \frac{м^{3}}{моль}$. $V_{1}$ составляет примерно $0,05\%$ от $V_{2}$, так что величиной $V_{1}$ можно пренебречь. Таким образом формула~\ref{eq1} принимает вид:
+\begin{equation}    \label{eq2}
+  \frac{dP}{dT}=\frac{L}{TV},
+\end{equation}
+где $V$ -- объем пара. Для того, чтобы выразить это $V$, воспользуемся уравнением Ван-дер-Ваальса:
+\begin{equation}    \label{eq3}
+  (P + \frac{a}{V^{2}})(V-b)=RT.
+\end{equation}
+Поскольку в работе в качетсве рабочего тела используется вода, коэффиценты $a$ и $b$ соответственно равны $0,4\ \frac{Па \cdot м^{6}}{моль^{2}}$ и $26 \cdot 10^{-6}\ \frac{м^{3}}{моль}$. Поскольку $b$ составляет менее десятой доли процента от $V$, можно ей пренебречь. Принебрежение величиной $\frac{a}{V^{2}}$ приведет к возникновению ошибки менее $3\%$, а при давлении меньше атмосферного -- еще меньше. Таким образом, уравнение Ван-дер-Ваальса для давления менее атмостферного мало отличается от уравнения Менделеева-Клапейрона.
+\begin{equation}    \label{eq4}
+  V = \frac{RT}{P}.
+\end{equation}
+Совмещая уравнения~\ref{eq1} и \ref{eq4}, получаем:
+\begin{equation}    \label{eq5}
+  L = \frac{RT^{2}}{P} \frac{dP}{dT} = -R \frac{d(\ln P)}{d(1 / T)}.
+\end{equation}
+\end{document}
