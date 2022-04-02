@@ -25,6 +25,9 @@
     "eq2"
     "eq3"
     "eq4"
-    "eq5"))
+    "eq5"
+    "fig:img1"
+    "table:tab1"
+    "table:tab2"))
  :latex)
 
