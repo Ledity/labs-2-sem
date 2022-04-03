@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.21)  2 APR 2022 00:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.21)  3 APR 2022 11:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -947,6 +947,9 @@ Package mathtext Warning: letter `cyrm' used in math mode on input line 69.
 Package mathtext Warning: letter `CYRT' used in math mode on input line 70.
 
 
+Package mathtext Warning: letter `CYRK' used in math mode on input line 80.
+
+
 Package mathtext Warning: letter `cyrn' used in math mode on input line 80.
 
 
@@ -975,7 +978,71 @@ Overfull \hbox (2.46262pt too wide) in paragraph at lines 78--109
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./Pictures//scheme.png>] [4] [5] [6] (./2.4.1.aux<<t1.cmap>>)
+[3 <./Pictures//scheme.png>] [4] [5]
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyrsftsn' used in math mode on input line 273
+.
+
+
+Package mathtext Warning: letter `CYRD' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyrzh' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 273.
+
+
+Package mathtext Warning: letter `cyrsftsn' used in math mode on input line 273
+.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `cyrsftsn' used in math mode on input line 274
+.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `CYRD' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `cyrzh' used in math mode on input line 274.
+
+
+Package mathtext Warning: letter `cyrg' used in math mode on input line 274.
+
+[6] (./2.4.1.aux<<t1.cmap>>)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -983,7 +1050,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  26536 strings out of 478276
  662334 string characters out of 5853013
- 1084233 words of memory out of 5000000
+ 1084242 words of memory out of 5000000
  44268 multiletter control sequences out of 15000+600000
  483852 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1002,7 +1069,7 @@ dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type
 1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
 er/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb
 >
-Output written on 2.4.1.pdf (6 pages, 223687 bytes).
+Output written on 2.4.1.pdf (6 pages, 227063 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
