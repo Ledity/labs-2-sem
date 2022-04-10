@@ -17,6 +17,9 @@
     "fontenc"
     "inputenc"
     "babel"
-    "pgfplots"))
+    "pgfplots")
+   (LaTeX-add-labels
+    "eq1"
+    "eq2"))
  :latex)
 
