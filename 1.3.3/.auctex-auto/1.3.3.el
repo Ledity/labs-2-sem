@@ -13,13 +13,21 @@
     "amsthm"
     "amssymb"
     "graphicx"
+    "wrapfig"
+    "pgfplots"
     "mathtext"
+    "cmap"
     "fontenc"
     "inputenc"
-    "babel"
-    "pgfplots")
+    "babel")
    (LaTeX-add-labels
     "eq1"
-    "eq2"))
+    "eq2"
+    "eq3"
+    "eq4"
+    "eq5"
+    "fig:img1"
+    "table:tab1"
+    "table:tab2"))
  :latex)
 
