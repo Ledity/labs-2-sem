@@ -19,6 +19,11 @@
     "cmap"
     "fontenc"
     "inputenc"
-    "babel"))
+    "babel")
+   (LaTeX-add-labels
+    "eq1"
+    "eq2"
+    "eq3"
+    "table:tab1"))
  :latex)
 
