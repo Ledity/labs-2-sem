@@ -24,6 +24,14 @@
    (LaTeX-add-labels
     "fig:img1"
     "fig:img2"
-    "fig:img3"))
+    "fig:img3"
+    "eq1"
+    "eq2"
+    "eq3"
+    "eq4"
+    "eq5"
+    "eq6"
+    "table:tab1"
+    "table:tab2"))
  :latex)
 
