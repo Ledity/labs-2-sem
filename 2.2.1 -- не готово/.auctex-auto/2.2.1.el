@@ -22,6 +22,17 @@
     "babel"
     "icomma")
    (LaTeX-add-labels
-    "fig:img1"))
+    "fig:img1"
+    "eq1"
+    "eq2"
+    "eq3"
+    "eq4"
+    "eq5"
+    "eq6"
+    "eq7"
+    "eq8"
+    "fig:img2"
+    "fig:img3"
+    "fig:img4"))
  :latex)
 
