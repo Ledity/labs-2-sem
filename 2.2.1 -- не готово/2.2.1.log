@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.8)  10 MAY 2022 22:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.8)  13 MAY 2022 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,10 +751,10 @@ File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box65
 ) (./2.2.1.aux
 
-LaTeX Warning: Label `fig:img1' multiply defined.
+LaTeX Warning: Label `fig:img4' multiply defined.
 
 
-LaTeX Warning: Label `fig:img1' multiply defined.
+LaTeX Warning: Label `fig:img4' multiply defined.
 
 )
 \openout1 = `2.2.1.aux'.
@@ -899,450 +899,229 @@ Package mathtext Warning: letter `cyrr' used in math mode on input line 99.
 
 Package mathtext Warning: letter `cyrr' used in math mode on input line 99.
 
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 106.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 106.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 106.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 153.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 153.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 153.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 153.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 153.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 153.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 153.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 153.
-
-
-LaTeX Warning: Float too large for page by 25.4777pt on input line 155.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 160.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 160.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 160.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 204.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 204.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 204.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 207.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 207.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 207.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 207.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 207.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 207.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 207.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 207.
-
-
-LaTeX Warning: Float too large for page by 25.4777pt on input line 209.
-
 <Pictures//graph1.png, id=38, 883.3pt x 570.13pt>
 File: Pictures//graph1.png Graphic file (type png)
 <use Pictures//graph1.png>
-Package pdftex.def Info: Pictures//graph1.png  used on input line 214.
+Package pdftex.def Info: Pictures//graph1.png  used on input line 104.
 (pdftex.def)             Requested size: 364.36575pt x 235.18153pt.
 
-Overfull \hbox (4.36575pt too wide) in paragraph at lines 214--215
+Overfull \hbox (4.36575pt too wide) in paragraph at lines 104--105
  [][] 
  []
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 215.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 105.
 
 
-Package mathtext Warning: letter `cyro' used in math mode on input line 215.
+Package mathtext Warning: letter `cyro' used in math mode on input line 105.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 215.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 105.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 215.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 105.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 215.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 105.
 
 
-Package mathtext Warning: letter `cyro' used in math mode on input line 215.
+Package mathtext Warning: letter `cyro' used in math mode on input line 105.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 215.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 105.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 215.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 105.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 107.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package mathtext Warning: letter `cyro' used in math mode on input line 107.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 217.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 107.
 
 
-Package mathtext Warning: letter `cyro' used in math mode on input line 217.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 107.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 217.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 108.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 217.
+Package mathtext Warning: letter `cyro' used in math mode on input line 108.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 218.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 108.
 
 
-Package mathtext Warning: letter `cyro' used in math mode on input line 218.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 108.
 
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 218.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 218.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 224.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 224.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 224.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 268.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 268.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 268.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 271.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 271.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 271.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 271.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 271.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 271.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 271.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 271.
-
-
-LaTeX Warning: Float too large for page by 25.4777pt on input line 273.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 278.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 278.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 278.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 322.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 322.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 322.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 325.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 325.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 325.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 325.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 325.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 325.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 325.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 325.
-
-
-LaTeX Warning: Float too large for page by 25.4777pt on input line 327.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 332.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 332.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 332.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 376.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 376.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 376.
-
-
-Overfull \hbox (4.00253pt too wide) in paragraph at lines 330--379
- [][] 
- []
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 379.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 379.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 379.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 379.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 379.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 379.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 379.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 379.
-
-
-LaTeX Warning: Float too large for page by 25.4777pt on input line 381.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 386.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 386.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 386.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 430.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 430.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 430.
-
-
-Overfull \hbox (4.00253pt too wide) in paragraph at lines 384--433
- [][] 
- []
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 433.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 433.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 433.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 433.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 433.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 433.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 433.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 433.
-
-
-LaTeX Warning: Float too large for page by 25.4777pt on input line 435.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 440.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 440.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 440.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 462.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 462.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 462.
-
-
-Overfull \hbox (4.00253pt too wide) in paragraph at lines 438--465
- [][] 
- []
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 465.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 465.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 465.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 465.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 465.
-
-
-Package mathtext Warning: letter `cyro' used in math mode on input line 465.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 465.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 465.
-
-File: Pictures//graph1.png Graphic file (type png)
-<use Pictures//graph1.png>
-Package pdftex.def Info: Pictures//graph1.png  used on input line 472.
+<Pictures//graph2.png, id=40, 883.3pt x 570.13pt>
+File: Pictures//graph2.png Graphic file (type png)
+<use Pictures//graph2.png>
+Package pdftex.def Info: Pictures//graph2.png  used on input line 112.
 (pdftex.def)             Requested size: 364.36575pt x 235.18153pt.
 
-Overfull \hbox (4.36575pt too wide) in paragraph at lines 472--473
+Overfull \hbox (4.36575pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 473.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 113.
 
 
-Package mathtext Warning: letter `cyro' used in math mode on input line 473.
+Package mathtext Warning: letter `cyro' used in math mode on input line 113.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 473.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 113.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 473.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 113.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 473.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 113.
 
 
-Package mathtext Warning: letter `cyro' used in math mode on input line 473.
+Package mathtext Warning: letter `cyro' used in math mode on input line 113.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 473.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 113.
 
 
-Package mathtext Warning: letter `cyrr' used in math mode on input line 473.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 113.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Package mathtext Warning: letter `cyrt' used in math mode on input line 115.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 115.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 115.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 115.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 116.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 116.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 116.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 116.
+
+<Pictures//graph3.png, id=41, 883.3pt x 570.13pt>
+File: Pictures//graph3.png Graphic file (type png)
+<use Pictures//graph3.png>
+Package pdftex.def Info: Pictures//graph3.png  used on input line 120.
+(pdftex.def)             Requested size: 364.36575pt x 235.18153pt.
+
+Overfull \hbox (4.36575pt too wide) in paragraph at lines 120--121
+ [][] 
+ []
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 121.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 121.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 121.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 121.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 121.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 121.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 121.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 121.
+
+[5 <./Pictures//graph1.png>]
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 123.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 123.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 123.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 123.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 124.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 124.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 124.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 124.
+
+<Pictures//graph4.png, id=49, 883.3pt x 570.13pt>
+File: Pictures//graph4.png Graphic file (type png)
+<use Pictures//graph4.png>
+Package pdftex.def Info: Pictures//graph4.png  used on input line 128.
+(pdftex.def)             Requested size: 364.36575pt x 235.18153pt.
+
+Overfull \hbox (4.36575pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 129.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 129.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[6 <./Pictures//graph2.png>]
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Text page 7 contains only floats.
 
-[5 <./Pictures//graph1.png>] [6] [7] [8] [9] [10] [11] [12] [13] (./2.2.1.aux<<
-t1.cmap>>)
+[7 <./Pictures//graph3.png> <./Pictures//graph4.png>] (./2.2.1.aux<<t1.cmap>>)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1351,13 +1130,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25557 strings out of 478238
- 639461 string characters out of 5850457
- 1282041 words of memory out of 5000000
- 43349 multiletter control sequences out of 15000+600000
+ 25577 strings out of 478238
+ 639937 string characters out of 5850457
+ 1031041 words of memory out of 5000000
+ 43366 multiletter control sequences out of 15000+600000
  482685 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,103p,1078b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,8n,103p,1078b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -1372,10 +1151,10 @@ e/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fo
 nts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm
 1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on 2.2.1.pdf (13 pages, 360244 bytes).
+Output written on 2.2.1.pdf (7 pages, 375534 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 52 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
 

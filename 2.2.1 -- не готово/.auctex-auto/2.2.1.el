@@ -32,6 +32,7 @@
     "eq7"
     "eq8"
     "fig:img2"
+    "eq9"
     "fig:img3"
     "fig:img4"))
  :latex)
