@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.8)  13 MAY 2022 22:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.8)  14 MAY 2022 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1121,7 +1121,181 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: Text page 7 contains only floats.
 
-[7 <./Pictures//graph3.png> <./Pictures//graph4.png>] (./2.2.1.aux<<t1.cmap>>)
+[7 <./Pictures//graph3.png> <./Pictures//graph4.png>]
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 137.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 137.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 138.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 138.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 139.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 139.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 140.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 140.
+
+<Pictures//graph5.png, id=60, 950.55125pt x 512.91624pt>
+File: Pictures//graph5.png Graphic file (type png)
+<use Pictures//graph5.png>
+Package pdftex.def Info: Pictures//graph5.png  used on input line 144.
+(pdftex.def)             Requested size: 356.45584pt x 192.34311pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--147
+
+ []
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 147.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 147.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 147.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 147.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 147.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 147.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 147.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 148.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 148.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 148.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 148.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 148.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 148.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 148.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 148.
+
+
+Overfull \hbox (10.68886pt too wide) in paragraph at lines 147--150
+\T2A/cmr/m/up/10.95 Таким об-ра-зом, ко-эф-фи-цент диф-фу-зии при ат-мо-сфер-но
+м дав-ле-нии $\OML/cmm/m/it/10.95 D[] \OT1/cmr/m/n/10.95 =
+ []
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 151.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 152.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 152.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 152.
+
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 153.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 153.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 153.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 154.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 154.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 154.
+
+[8 <./Pictures//graph5.png>]
+
+Package mathtext Warning: letter `cyrv' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyro' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 157.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 157.
+
+[9] (./2.2.1.aux<<t1.cmap>>)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1130,10 +1304,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25577 strings out of 478238
- 639937 string characters out of 5850457
+ 25586 strings out of 478238
+ 640130 string characters out of 5850457
  1031041 words of memory out of 5000000
- 43366 multiletter control sequences out of 15000+600000
+ 43374 multiletter control sequences out of 15000+600000
  482685 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,103p,1078b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1143,18 +1317,19 @@ ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
-.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fo
-nts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm
-1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on 2.2.1.pdf (7 pages, 375534 bytes).
+st/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share
+/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fon
+ts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public
+/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1
+095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on 2.2.1.pdf (9 pages, 409939 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 127 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 72 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -34,6 +34,7 @@
     "fig:img2"
     "eq9"
     "fig:img3"
-    "fig:img4"))
+    "fig:img4"
+    "fig:img5"))
  :latex)
 
